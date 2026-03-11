@@ -1,0 +1,10 @@
+*.las
+*.laz
+*.tif
+*.tiff
+*.img
+*.aux.xml
+*.lax
+outputs/
+tiff_outputs/
+data/
